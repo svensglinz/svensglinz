@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am a last year economics student interested in financial and public economics, finance and data science. 
+I have previous experience in **R**, **Python** and **SQL**. 
+
+Feel free to reach me on: 
+
+ [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/svenglinz/)
+ 
 <!--
 **svensglinz/svensglinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
