@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am a last year economics student interested in financial and public economics, finance and data science. 
-I have previous experience in **R**, **Python** and **SQL**. 
+I am a first year Computer Science student at ETH ZUrich. I have a bachelor's in economics with previous experience in Finance, Risk Management and Data Science.
+I have previous experience in **R**, **Python**, **SQL** and **Java**. 
 
 Feel free to reach me on: 
  
