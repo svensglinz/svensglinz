@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am a first year Computer Science student at ETH ZUrich. I have a bachelor's in economics with previous experience in Finance, Risk Management and Data Science.
-I have previous experience in **R**, **Python**, **SQL** and **Java**. 
+I am a second year Computer Science student at ETH Zürich. I have a bachelor's in economics with previous experience in Finance, Risk Management and Data Science.
+I have previous experience in **R**, **Python**, **SQL**, **Java** and **C/C++**. 
 
 Feel free to reach me on: 
  
